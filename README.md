@@ -1,24 +1,45 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+# Band API
 
-* Ruby version
+## Description
+This is an exercise in creating an api with Ruby on Rails. This api is designed to be able to query bands, artists, and songs.
 
-* System dependencies
+## Table of Contents
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Technologies](#technologies)
+  - [License](#license)
+  - [Tests](#tests)
+  - [Next Steps](#next-steps)
+  - [Questions](#questions)
 
-* Configuration
 
-* Database creation
+## Installation
+``` Clone the application onto your local machine and run ```bundle install``` to install the necessary dependencies.  ```
 
-* Database initialization
+## Usage
+N/A
 
-* How to run the test suite
+## Technologies
+Ruby on Rails
 
-* Services (job queues, cache servers, search engines, etc.)
+## License
 
-* Deployment instructions
 
-* ...
+  [MIT](https://opensource.org/licenses/MIT)
+  
+
+  ![License: MIT](https://img.shields.io/badge/License-MIT-9cf)
+
+## Tests
+N/A
+
+## Next Steps
+N/A
+
+## Questions
+For additional questions please contact:
+* The Privacy Dev
+* Email: theprivacydev@protonmail.com
+* https://github.com/theprivacydev/
