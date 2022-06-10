@@ -19,7 +19,7 @@ This is an exercise in creating an api with Ruby on Rails. This api is designed 
 Clone the application onto your local machine and run ```bundle install``` to install the necessary dependencies.
 
 ## Usage
-N/A
+![application screenshot (json)](./pictures/image.png)
 
 ## Technologies
 Ruby on Rails
