@@ -1,3 +1,3 @@
 class Member < ApplicationRecord
-  belongs_to :bands
+  belongs_to :band
 end
