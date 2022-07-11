@@ -8,6 +8,12 @@ class BandsController < ApplicationController
     render json: @bands
   end
 
+  def members
+    @members = Band.find(params[:id]).members
+
+    render json: @members
+  end
+
   # GET /bands/1
   def show
     render json: @band
